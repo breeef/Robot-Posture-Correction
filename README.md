@@ -51,7 +51,7 @@
    - 确保已安装依赖库。
    - 运行脚本：
      ```bash
-     python robot_controller.py
+     python main.py
      ```
    - 程序启动后，会打开 PyBullet 的 GUI 窗口，显示机器人和地面。
 
